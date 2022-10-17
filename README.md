@@ -1,2 +1,3 @@
 # minecraft-bot-stresser
-stressssss
+Geliştirilmekte olan bir proje. 
+@LimeNetwork
