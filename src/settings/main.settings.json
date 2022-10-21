@@ -1,8 +1,8 @@
 {  
-    "namePrefix": "Lime",
-    "botSize": 3,
-    "botMs": 3000,
-    "host": "193.223.107.181",
+    "namePrefix": "provanas",
+    "botSize": 1000,
+    "botMs": 350,
+    "host": "oyna.provanas.com",
     "port": "25565",
     "version": "1.17.1"
 }
