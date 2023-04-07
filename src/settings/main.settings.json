@@ -2,7 +2,7 @@
     "namePrefix": "provanas",
     "botSize": 1000,
     "botMs": 350,
-    "host": "oyna.provanas.com",
+    "host": "mc.craftlime.net",
     "port": "25565",
     "version": "1.17.1"
 }
